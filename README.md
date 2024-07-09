@@ -4,7 +4,7 @@
 ![dbdgit](https://github.com/FernandoCMFilho/FernandoCMFilho/assets/54756245/4e796fae-f48a-46cd-bfcd-470eaff2ea57) Aspirante a Designer Gráfico 
 
 #  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fernando._.filho)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fernando._.filho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fernando-Carvalho-Menezes-Filho)
 
 # Linguagens e Aplicativos:
